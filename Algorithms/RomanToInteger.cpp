@@ -29,7 +29,7 @@ public:
 // The hint is that the roman numbers are usually be written from the largest to the smallest, except for 4, 9, 40, 90,.....
 // This hint can be used to group the roman numbers.
 // In case of 4, 9, 40,....., the true value is given by substracting the value of roman number by the value of the roman number after it.
-                  
+// The key point is to understand the logic to simplify the problems                  
             }
         }
         return num;
