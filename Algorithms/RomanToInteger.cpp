@@ -1,4 +1,5 @@
 // Noted by Yige Huang
+// The comments are here for better understanding for C++ beginners
 ***************************************************************************************************
 class Solution {
 public:
